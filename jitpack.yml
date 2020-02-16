@@ -1,0 +1,2 @@
+  install:
+    - ./gradlew installArchives --no-daemon --no-parallel
